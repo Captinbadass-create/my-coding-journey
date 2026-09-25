@@ -1,3 +1,4 @@
+
 # My Coding Journey 🚀
 
 Welcome to my repository! This is where I track my progress, document my learning, and save my practice projects as I build my skills in Python.
@@ -16,6 +17,7 @@ Welcome to my repository! This is where I track my progress, document my learnin
 
 | File / Project | Description |
 | :--- | :--- |
+| `Jamb_result_checker.py` | A Python script designed to check and process JAMB examination results. |
 | `password_gen.py` | A customizable password generator script for creating strong, secure passwords. |
 | `guess_game bosslevel.py` | A multi-level number guessing game featuring custom logic and progressive difficulty levels. |
 | `cipher.py` | An interactive Caesar Cipher CLI application capable of text encryption, decryption, brute-force cracking, and text file processing. |
@@ -39,4 +41,4 @@ Welcome to my repository! This is where I track my progress, document my learnin
 Make sure you have [Python 3](https://www.python.org/) installed on your machine. You can run any script from your terminal:
 
 ```bash
-python password_gen.py
+python Jamb_result_checker.py
